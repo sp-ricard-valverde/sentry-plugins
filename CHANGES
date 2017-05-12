@@ -1,6 +1,7 @@
 Version 8.17 (Unreleased)
 -------------------------
 - Added Heroku for release tracking.
+- Bitbucket commit integration
 
 Version 8.16
 ------------
